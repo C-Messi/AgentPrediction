@@ -1,0 +1,402 @@
+[
+  {
+    "platform": "weibo",
+    "title": "公积金改革大动作要来了",
+    "heat_score": 1144984,
+    "link": "https://s.weibo.com/weibo?q=%23%E5%85%AC%E7%A7%AF%E9%87%91%E6%94%B9%E9%9D%A9%E5%A4%A7%E5%8A%A8%E4%BD%9C%E8%A6%81%E6%9D%A5%E4%BA%86%23&t=31&band_rank=1&Refer=top",
+    "discussion_volume": null,
+    "category": "热",
+    "content": null,
+    "llm_analysis": {
+      "topic_nature": "社会新闻",
+      "social_impact": 9,
+      "discussion_depth": 8,
+      "potential_score": 9,
+      "reason": "该话题涉及全国性的公积金制度改革，直接关系到数亿城镇职工的切身利益，属于重大民生政策调整。话题性质为社会新闻，具有极强的公共性和政策性。社会影响力评分为9分，因为公积金制度覆盖人群广泛，改革将直接影响住房消费、个人储蓄和福利保障，触及社会基本运行层面。讨论深度评分为8分，话题不仅涉及政策解读，还引发了关于社会保障体系、收入分配、灵活就业人员权益、刺激内需等深层次社会经济问题的讨论。综合潜力分评分为9分，该话题具备成为社会级爆点的所有要素：全民关注、政策重大、利益攸关、讨论空间大，且由权威媒体（人民日报）和重磅会议（中央经济工作会议）释放信号，可信度和关注度极高。"
+    },
+    "normalized_heat": 100.0,
+    "normalized_discussion": 0.0,
+    "total_score": 68.0,
+    "is_breakout": false
+  },
+  {
+    "platform": "weibo",
+    "title": "宁夏装死小羊身价飙升至30万元",
+    "heat_score": 843315,
+    "link": "https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%A4%8F%E8%A3%85%E6%AD%BB%E5%B0%8F%E7%BE%8A%E8%BA%AB%E4%BB%B7%E9%A3%99%E5%8D%87%E8%87%B330%E4%B8%87%E5%85%83%23&t=31&band_rank=2&Refer=top",
+    "discussion_volume": null,
+    "category": "新",
+    "content": null,
+    "llm_analysis": {
+      "topic_nature": "娱乐",
+      "social_impact": 4,
+      "discussion_depth": 3,
+      "potential_score": 4,
+      "reason": "该话题核心是一只因遗传缺陷而表现出‘装死’行为的小羊羔意外走红，其性质属于典型的网络娱乐事件或社会趣闻。社会影响力评分为4分，因为它主要在社交媒体平台引发关注和讨论，影响范围局限于网络娱乐和部分区域经济（如带动宁夏特产宣传），不具备广泛的社会政策或民生影响。讨论深度评分为3分，虽然内容引发了关于‘流量炒作’、‘动物行为’和‘文旅经济’的讨论，但整体停留在较浅的娱乐和商业层面，缺乏引发深度社会思考或价值观辩论的潜力。综合潜力分评为4分，该话题具有成为短期网络热点的潜力，能带来一定的娱乐流量和区域经济宣传效果，但因其娱乐性强、议题深度有限，难以发展为具有深远影响的‘社会级爆点’事件。"
+    },
+    "normalized_heat": 73.65,
+    "normalized_discussion": 0.0,
+    "total_score": 44.83,
+    "is_breakout": false
+  },
+  {
+    "platform": "weibo",
+    "title": "务工人员春运可预约购票",
+    "heat_score": 639372,
+    "link": "https://s.weibo.com/weibo?q=%23%E5%8A%A1%E5%B7%A5%E4%BA%BA%E5%91%98%E6%98%A5%E8%BF%90%E5%8F%AF%E9%A2%84%E7%BA%A6%E8%B4%AD%E7%A5%A8%23&t=31&band_rank=3&Refer=top",
+    "discussion_volume": null,
+    "category": "新",
+    "content": null,
+    "llm_analysis": {
+      "topic_nature": "社会新闻",
+      "social_impact": 8,
+      "discussion_depth": 7,
+      "potential_score": 8,
+      "reason": "该话题涉及春运购票这一具有广泛社会基础的重大民生问题，直接关系到数亿务工人员的切身利益和春节团聚。话题性质为社会新闻，反映了政府（国铁集团）为解决特定群体（务工人员）购票难问题推出的具体便民措施。社会影响力评分为8分，因为春运是中国特有的年度大规模人口迁徙，购票问题牵动千家万户，政策调整具有广泛的社会关注度和实际影响。讨论深度评分为7分，话题不仅停留在政策发布层面，还引发了公众对‘符合条件是什么条件’等具体操作细节的追问，以及对春运交通、团圆文化等更深层次社会议题的讨论，体现了从政策到社会现象的延伸思考。综合潜力分评分为8分，该话题结合了年度热点（春运）、民生痛点（购票难）和政策亮点（便民服务），具备成为社会级爆点的潜力，容易引发广泛共鸣和持续讨论。"
+    },
+    "normalized_heat": 55.84,
+    "normalized_discussion": 0.0,
+    "total_score": 43.92,
+    "is_breakout": false
+  },
+  {
+    "platform": "weibo",
+    "title": "女子买二手卡宴被隐瞒伤亡事故4年",
+    "heat_score": 284293,
+    "link": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%B0%E4%BA%8C%E6%89%8B%E5%8D%A1%E5%AE%B4%E8%A2%AB%E9%9A%90%E7%9E%92%E4%BC%A4%E4%BA%A1%E4%BA%8B%E6%95%854%E5%B9%B4%23&t=31&band_rank=6&Refer=top",
+    "discussion_volume": null,
+    "category": "新",
+    "content": null,
+    "llm_analysis": {
+      "topic_nature": "社会新闻",
+      "social_impact": 7,
+      "discussion_depth": 8,
+      "potential_score": 7,
+      "reason": "该话题涉及二手车交易欺诈、消费者权益保护等社会普遍关注的问题，具有典型性和警示意义。具体分析如下：1. 话题性质：属于社会新闻，核心是消费维权和行业乱象，而非娱乐或科技内容。2. 社会影响力（7分）：事件触及二手车交易这一广泛存在的消费场景，涉及金额较大（48万），且“隐瞒伤亡事故”触及安全与诚信底线，容易引发公众共鸣和广泛讨论，对二手车行业信誉和消费者购车行为可能产生实际影响。3. 讨论深度（8分）：话题本身（欺诈、维权）具有明确的讨论焦点，且网友评论已延伸至多个深度方向：a) 具体避坑指南（查记录、签合同）；b) 消费观念反思（新能源车 vs. 传统豪华品牌）；c) 对行业监管和平台责任的探讨。这些讨论超越了单纯的事件叙述，触及了消费选择、行业规范和社会信任等深层议题。4. 综合潜力分（7分）：事件本身具有成为社会热点（“爆点”）的多个要素：具体案例、消费者受害、行业潜规则、高价值商品。虽然其影响范围可能不及某些全民性政治或灾难事件，但在消费和社会民生领域，足以成为一个引发持续关注和讨论的标志性案例，具备成为“社会级爆点”的较高潜力。"
+    },
+    "normalized_heat": 24.83,
+    "normalized_discussion": 0.0,
+    "total_score": 26.41,
+    "is_breakout": false
+  },
+  {
+    "platform": "weibo",
+    "title": "狼王格林现状",
+    "heat_score": 266456,
+    "link": "https://s.weibo.com/weibo?q=%E7%8B%BC%E7%8E%8B%E6%A0%BC%E6%9E%97%E7%8E%B0%E7%8A%B6&t=31&band_rank=7&Refer=top",
+    "discussion_volume": null,
+    "category": "",
+    "content": null,
+    "llm_analysis": {
+      "topic_nature": "社会新闻",
+      "social_impact": 6,
+      "discussion_depth": 7,
+      "potential_score": 6,
+      "reason": "该话题围绕纪录片《重返狼群》中的主角狼王格林的现状展开，核心是人与动物情感、自然保护、纪录片真实性等议题。话题性质属于社会新闻，涉及动物保护、人与自然关系等社会价值讨论。社会影响力评分为6分，因为话题在特定群体（纪录片观众、动物爱好者）中关注度较高，但尚未成为全民性热点。讨论深度评分为7分，因为话题能引发关于野生动物保护伦理、纪录片真实性、人与自然情感纽带等多层面的深度思考。综合潜力分为6分，话题具备一定的情感共鸣和社会讨论价值，但受限于题材相对小众，成为全民爆点的潜力中等。"
+    },
+    "normalized_heat": 23.27,
+    "normalized_discussion": 0.0,
+    "total_score": 23.64,
+    "is_breakout": false
+  },
+  {
+    "platform": "weibo",
+    "title": "金价波动",
+    "heat_score": 212789,
+    "link": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=9&Refer=top",
+    "discussion_volume": null,
+    "category": "新",
+    "content": null,
+    "llm_analysis": {
+      "topic_nature": "社会新闻",
+      "social_impact": 8,
+      "discussion_depth": 7,
+      "potential_score": 7,
+      "reason": "该话题以‘金价波动’为核心，结合了具体案例（郑州准新人因观望金价上涨导致结婚成本翻倍）、历史数据（2015-2026年银价变化，虽数据存疑但提供了讨论基础）和财经观点（未来金价围绕4500美元波动）。话题性质属于社会新闻，涉及民生消费（婚嫁）、投资理财和宏观经济感知。社会影响力较高（8分），因为金价波动直接关联普通民众的资产保值、消费决策（如购买三金）和对经济趋势的焦虑，容易引发广泛共鸣和讨论。讨论深度中等偏上（7分），话题可延伸至投资心态、经济预期管理、黄金的金融与商品双重属性等层面，但部分内容夹杂营销信息（如羽绒服广告、基金群推广），可能稀释深度讨论。综合潜力分7分，具备成为社会级爆点的潜力，因切中民众对资产贬值和未来不确定性的普遍担忧，但受部分娱乐或营销内容干扰，可能影响话题的纯粹性和持续热度。"
+    },
+    "normalized_heat": 18.58,
+    "normalized_discussion": 0.0,
+    "total_score": 23.29,
+    "is_breakout": false
+  },
+  {
+    "platform": "weibo",
+    "title": "2026央视春晚首次联排",
+    "heat_score": 326792,
+    "link": "https://s.weibo.com/weibo?q=%232026%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E9%A6%96%E6%AC%A1%E8%81%94%E6%8E%92%23&t=31&band_rank=4&Refer=top",
+    "discussion_volume": null,
+    "category": "新",
+    "content": null,
+    "llm_analysis": {
+      "topic_nature": "娱乐",
+      "social_impact": 4,
+      "discussion_depth": 3,
+      "potential_score": 4,
+      "reason": "该话题性质为典型的娱乐新闻，聚焦于2026年央视春晚的首次联排及明星艺人动态。社会影响力有限（4分），主要影响范围是娱乐粉丝群体和关注春晚的观众，不涉及重大社会议题。讨论深度较浅（3分），内容以明星路透、造型讨论和节目猜测为主，缺乏引发深度社会思考或广泛公共讨论的潜力。综合潜力分（4分）表明这是一个常规的、季节性的娱乐热点，虽然能吸引一定关注，但难以成为具有深远影响的“社会级爆点”。"
+    },
+    "normalized_heat": 28.54,
+    "normalized_discussion": 0.0,
+    "total_score": 22.27,
+    "is_breakout": false
+  },
+  {
+    "platform": "weibo",
+    "title": "稀土不是一种土",
+    "heat_score": 188685,
+    "link": "https://s.weibo.com/weibo?q=%23%E7%A8%80%E5%9C%9F%E4%B8%8D%E6%98%AF%E4%B8%80%E7%A7%8D%E5%9C%9F%23&t=31&band_rank=10&Refer=top",
+    "discussion_volume": null,
+    "category": "新",
+    "content": null,
+    "llm_analysis": {
+      "topic_nature": "科技",
+      "social_impact": 7,
+      "discussion_depth": 6,
+      "potential_score": 7,
+      "reason": "该话题以科普形式介绍稀土这一战略性资源，结合地质工作者艰苦勘探的感人故事，具有多重价值。话题性质属于科技科普，但延伸至国家资源安全、科技创新、工匠精神等社会层面。社会影响力较高（7分），因为它触及国家战略资源、科技自立自强等宏观议题，容易引发公众对国家基础工业和资源安全的关注。讨论深度中等偏上（6分），话题本身有潜力引发关于资源重要性、勘探技术、科技工作者奉献精神等方面的讨论，但具体内容以科普和正能量宣传为主，可能限制深度辩论的空间。综合潜力分7分，该话题具备成为社会级爆点的潜力，因为它巧妙地将冷门的科技知识与感人的国家叙事相结合，符合当前强调科技自立、弘扬工匠精神的社会氛围，容易在社交媒体上引发共鸣和传播。"
+    },
+    "normalized_heat": 16.48,
+    "normalized_discussion": 0.0,
+    "total_score": 22.24,
+    "is_breakout": false
+  },
+  {
+    "platform": "weibo",
+    "title": "男演员被欠薪后送外卖",
+    "heat_score": 162569,
+    "link": "https://s.weibo.com/weibo?q=%E7%94%B7%E6%BC%94%E5%91%98%E8%A2%AB%E6%AC%A0%E8%96%AA%E5%90%8E%E9%80%81%E5%A4%96%E5%8D%96&t=31&band_rank=14&Refer=top",
+    "discussion_volume": null,
+    "category": "",
+    "content": null,
+    "llm_analysis": {
+      "topic_nature": "社会新闻",
+      "social_impact": 7,
+      "discussion_depth": 8,
+      "potential_score": 7,
+      "reason": "该话题以演员个人遭遇为切入点，揭示了短剧行业普遍存在的欠薪、合同不规范、权益保障缺失等深层社会问题。话题性质属于社会新闻，而非单纯的娱乐八卦。社会影响力评分为7分，因为它触及了劳动权益保障、新兴行业监管、职业歧视等多个社会议题，引发了公众对特定行业从业者生存状况的关注。讨论深度评分为8分，话题具备从个案上升到行业乱象、法律维权、社会保障体系讨论的潜力，能引发关于行业规范、合同法律效力、自由职业者权益等深度思考。综合潜力分7分，虽然可能难以成为全民级爆点，但作为反映新兴行业阴暗面、连接公众情感（对弱势劳动者的同情）与制度反思的案例，具备成为持续热点并推动行业讨论的潜力。"
+    },
+    "normalized_heat": 14.2,
+    "normalized_discussion": 0.0,
+    "total_score": 21.1,
+    "is_breakout": false
+  },
+  {
+    "platform": "weibo",
+    "title": "装死小羊身价30万主人仍不卖",
+    "heat_score": 295601,
+    "link": "https://s.weibo.com/weibo?q=%23%E8%A3%85%E6%AD%BB%E5%B0%8F%E7%BE%8A%E8%BA%AB%E4%BB%B730%E4%B8%87%E4%B8%BB%E4%BA%BA%E4%BB%8D%E4%B8%8D%E5%8D%96%23&t=31&band_rank=5&Refer=top",
+    "discussion_volume": null,
+    "category": "新",
+    "content": null,
+    "llm_analysis": {
+      "topic_nature": "娱乐",
+      "social_impact": 5,
+      "discussion_depth": 4,
+      "potential_score": 4,
+      "reason": "该话题核心是一只因‘装死’行为而走红的小羊，其性质属于典型的网络娱乐事件或趣味社会新闻。社会影响力评分为5分，因为它主要在社交媒体平台引发关注和讨论，具有一定的传播范围和公众兴趣，但影响范围主要集中在网络娱乐和区域经济宣传层面，未触及广泛的社会结构或公共政策。讨论深度评分为4分，虽然内容中提及了‘动物行为、商业价值与伦理’等潜在讨论点，但实际讨论多集中于小羊的趣味性、主人的商业决策（如不卖羊以宣传特产）以及由此衍生的网络营销机会，缺乏对更深层社会、伦理或经济议题的系统性探讨。综合潜力分评为4分，该话题具备成为短期网络热点的潜力，能吸引公众注意并带来一定的区域经济宣传效果，但由于其娱乐性质较强且话题生命周期可能较短，缺乏演变为‘社会级爆点’（如引发全民持续关注、政策讨论或深远社会影响）的深度和广度。"
+    },
+    "normalized_heat": 25.82,
+    "normalized_discussion": 0.0,
+    "total_score": 20.91,
+    "is_breakout": false
+  },
+  {
+    "platform": "weibo",
+    "title": "实践三十二号卫星发射失利",
+    "heat_score": 154178,
+    "link": "https://s.weibo.com/weibo?q=%23%E5%AE%9E%E8%B7%B5%E4%B8%89%E5%8D%81%E4%BA%8C%E5%8F%B7%E5%8D%AB%E6%98%9F%E5%8F%91%E5%B0%84%E5%A4%B1%E5%88%A9%23&t=31&band_rank=15&Refer=top",
+    "discussion_volume": null,
+    "category": "新",
+    "content": null,
+    "llm_analysis": {
+      "topic_nature": "科技",
+      "social_impact": 7,
+      "discussion_depth": 8,
+      "potential_score": 7,
+      "reason": "该话题涉及中国航天发射任务失利，属于科技领域的重大事件。社会影响力评分为7分，因为航天事业关乎国家科技实力和国际形象，失利事件会引发公众对国家航天技术可靠性和未来发展的广泛关注与讨论，影响范围较广。讨论深度评分为8分，话题不仅涉及具体的技术故障分析，还延伸至对航天探索精神、失败与进步的关系、以及公众如何理性看待科技挫折等深层次思考，如内容中提到的'折射出时代精神的变迁'、'人类知识边界的拓展'等。综合潜力分评分为7分，虽然航天发射失利本身是严肃的科技新闻，但因其承载的民族情感、科技探索的象征意义以及引发的公共讨论，使其具备成为社会级热点话题的潜力，但通常不会像娱乐或某些社会新闻那样引发全民狂欢式讨论。"
+    },
+    "normalized_heat": 13.47,
+    "normalized_discussion": 0.0,
+    "total_score": 20.73,
+    "is_breakout": false
+  },
+  {
+    "platform": "weibo",
+    "title": "为什么戴了智能手表反而睡不好",
+    "heat_score": 153151,
+    "link": "https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%B4%E4%BA%86%E6%99%BA%E8%83%BD%E6%89%8B%E8%A1%A8%E5%8F%8D%E8%80%8C%E7%9D%A1%E4%B8%8D%E5%A5%BD%23&t=31&band_rank=17&Refer=top",
+    "discussion_volume": null,
+    "category": "",
+    "content": null,
+    "llm_analysis": {
+      "topic_nature": "社会新闻",
+      "social_impact": 6,
+      "discussion_depth": 7,
+      "potential_score": 6,
+      "reason": "该话题探讨了智能穿戴设备普及后引发的健康焦虑现象，属于社会新闻范畴。话题触及了科技产品与日常生活习惯、心理健康之间的互动关系，具有现实意义。社会影响力评分为6分，因为它反映了现代社会中一个普遍存在的现象——人们对健康数据的过度关注可能反而影响生活质量，但尚未达到全民关注的重大事件级别。讨论深度评分为7分，因为话题可以延伸至科技伦理、数据依赖、心理健康、消费主义等多个层面，引发用户分享个人体验和深度思考。综合潜力分为6分，话题具备一定的社会讨论价值，但受限于具体产品使用体验的个体差异，成为全民级爆点的潜力中等。"
+    },
+    "normalized_heat": 13.38,
+    "normalized_discussion": 0.0,
+    "total_score": 18.69,
+    "is_breakout": false
+  },
+  {
+    "platform": "weibo",
+    "title": "全网最听劝妈妈走红",
+    "heat_score": 178236,
+    "link": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BD%91%E6%9C%80%E5%90%AC%E5%8A%9D%E5%A6%88%E5%A6%88%E8%B5%B0%E7%BA%A2%23&t=31&band_rank=13&Refer=top",
+    "discussion_volume": null,
+    "category": "",
+    "content": null,
+    "llm_analysis": {
+      "topic_nature": "娱乐",
+      "social_impact": 5,
+      "discussion_depth": 6,
+      "potential_score": 5,
+      "reason": "该话题围绕一位因‘听劝’而走红的妈妈展开，核心是网络互动、家庭趣事和育儿方式的轻松展示。话题性质偏向娱乐和生活方式，虽然触及了‘新中式父母’、‘情绪稳定’等社会教育议题，引发了关于亲子沟通和家庭氛围的讨论，具有一定的讨论深度。但其社会影响力有限，主要在网络平台引发共鸣和娱乐性传播，未触及重大社会矛盾或政策层面。综合来看，它是一个有一定关注度和讨论价值的网络热点，但难以成为具有深远影响的‘社会级爆点’事件。"
+    },
+    "normalized_heat": 15.57,
+    "normalized_discussion": 0.0,
+    "total_score": 17.78,
+    "is_breakout": false
+  },
+  {
+    "platform": "weibo",
+    "title": "鹿哈曾自曝带货7个月赚3500万",
+    "heat_score": 182842,
+    "link": "https://s.weibo.com/weibo?q=%23%E9%B9%BF%E5%93%88%E6%9B%BE%E8%87%AA%E6%9B%9D%E5%B8%A6%E8%B4%A77%E4%B8%AA%E6%9C%88%E8%B5%9A3500%E4%B8%87%23&t=31&band_rank=12&Refer=top",
+    "discussion_volume": null,
+    "category": "新",
+    "content": null,
+    "llm_analysis": {
+      "topic_nature": "娱乐",
+      "social_impact": 5,
+      "discussion_depth": 4,
+      "potential_score": 4,
+      "reason": "该话题核心围绕网红“鹿哈”的收入争议，属于典型的娱乐八卦性质。社会影响力评分为5分，因为它触及了网红经济、收入差距等社会现象，引发了公众对网络赚钱效应的关注，但本质上仍是个人案例，影响范围有限。讨论深度评分为4分，虽然可能引发关于“模仿走红”、“网红收入真实性”、“互联网财富分配”的讨论，但内容多停留在现象描述和情绪表达（如“眼红”、“卖惨”），缺乏推动结构性反思的深度。综合潜力分评为4分，它具备一定的传播性和争议性，能成为短期热点，但缺乏成为“社会级爆点”所需的重大公共价值、政策关联或深远社会影响，更多是娱乐消费话题。"
+    },
+    "normalized_heat": 15.97,
+    "normalized_discussion": 0.0,
+    "total_score": 15.98,
+    "is_breakout": false
+  },
+  {
+    "platform": "weibo",
+    "title": "白鹿春晚联排",
+    "heat_score": 223303,
+    "link": "https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%E6%98%A5%E6%99%9A%E8%81%94%E6%8E%92&t=31&band_rank=8&Refer=top",
+    "discussion_volume": null,
+    "category": "新",
+    "content": null,
+    "llm_analysis": {
+      "topic_nature": "娱乐",
+      "social_impact": 3,
+      "discussion_depth": 2,
+      "potential_score": 3,
+      "reason": "该话题围绕艺人白鹿参加央视春晚联排的路透和现场细节展开，内容聚焦于艺人形象、现场氛围（下雪、接雪花）等娱乐性元素。话题性质明确为娱乐新闻，主要吸引粉丝群体和娱乐资讯关注者。社会影响力有限，主要影响范围在娱乐圈和粉丝圈内，不涉及重大社会议题或公共政策。讨论深度较浅，内容多为对艺人状态、造型的讨论，缺乏引发广泛社会思考或深度辩论的潜力。综合潜力分较低，属于典型的娱乐热点，热度主要依赖艺人自身流量和春晚的阶段性关注，难以发展为具有深远影响的“社会级爆点”。"
+    },
+    "normalized_heat": 19.5,
+    "normalized_discussion": 0.0,
+    "total_score": 15.75,
+    "is_breakout": false
+  },
+  {
+    "platform": "weibo",
+    "title": "王玉雯回复张新成发给你妈妈了",
+    "heat_score": 184903,
+    "link": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%8E%89%E9%9B%AF%E5%9B%9E%E5%A4%8D%E5%BC%A0%E6%96%B0%E6%88%90%E5%8F%91%E7%BB%99%E4%BD%A0%E5%A6%88%E5%A6%88%E4%BA%86%23&t=31&band_rank=11&Refer=top",
+    "discussion_volume": null,
+    "category": "新",
+    "content": null,
+    "llm_analysis": {
+      "topic_nature": "娱乐",
+      "social_impact": 3,
+      "discussion_depth": 2,
+      "potential_score": 3,
+      "reason": "该话题性质为典型的娱乐事件，核心内容是演员王玉雯与张新成在社交媒体上的互动，涉及好友间的玩笑、新剧宣传以及“发给你妈妈了”这种带有家庭元素的幽默梗。话题主要吸引的是两位演员的粉丝群体以及对娱乐圈动态感兴趣的网友，讨论内容集中在友谊、宣传方式、剧情代入感等轻松层面。其社会影响力有限，属于娱乐圈内部或粉丝圈层的话题，不具备广泛的社会意义或争议性。讨论深度较浅，多为趣味性互动和情感表达，缺乏引发深度社会思考的潜力。综合潜力分较低，属于娱乐性较强但影响力范围较小的话题，难以成为社会级爆点。"
+    },
+    "normalized_heat": 16.15,
+    "normalized_discussion": 0.0,
+    "total_score": 14.07,
+    "is_breakout": false
+  },
+  {
+    "platform": "weibo",
+    "title": "习主席向世界推介来自中国的机遇清单",
+    "heat_score": 0,
+    "link": "https://s.weibo.com/weibo?q=%23%E4%B9%A0%E4%B8%BB%E5%B8%AD%E5%90%91%E4%B8%96%E7%95%8C%E6%8E%A8%E4%BB%8B%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%9C%BA%E9%81%87%E6%B8%85%E5%8D%95%23&Refer=new_time",
+    "discussion_volume": null,
+    "category": "热",
+    "content": null,
+    "llm_analysis": {
+      "topic_nature": "社会新闻",
+      "social_impact": 8,
+      "discussion_depth": 6,
+      "potential_score": 7,
+      "reason": "该话题性质为国家领导人外交活动及经济政策宣示，属于典型的社会新闻/政治新闻范畴。其社会影响力较高（8分），因为涉及国家最高领导人的国际形象塑造和中国在全球经济中的机遇分享，具有广泛的政策宣示意义和国内外关注度。讨论深度中等（6分），话题本身具有引发关于中国对外开放政策、国际合作机遇等深度讨论的潜力，但由于内容描述较为宏观且缺乏具体细节（‘具体内容：暂无’），可能限制公众进行非常具体、深入的实质性探讨。综合潜力分7分，表明这是一个可能引发国内外媒体和专业人士关注的重要政策信号话题，具备成为阶段性社会热点的潜力，但成为全民级爆点需要更具体的事件或政策细节推动。"
+    },
+    "normalized_heat": 0.0,
+    "normalized_discussion": 0.0,
+    "total_score": 14.0,
+    "is_breakout": false
+  },
+  {
+    "platform": "weibo",
+    "title": "王玉雯掉马",
+    "heat_score": 154012,
+    "link": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%8E%89%E9%9B%AF%E6%8E%89%E9%A9%AC%23&t=31&band_rank=16&Refer=top",
+    "discussion_volume": null,
+    "category": "热",
+    "content": null,
+    "llm_analysis": {
+      "topic_nature": "娱乐",
+      "social_impact": 3,
+      "discussion_depth": 2,
+      "potential_score": 3,
+      "reason": "该话题属于典型的娱乐性质，围绕演员王玉雯和张新成之间的互动展开，内容涉及追剧反应、青梅竹马情谊和幽默调侃。话题热度主要来源于粉丝群体和娱乐营销，缺乏广泛的社会意义或公共价值。社会影响力有限，主要局限于娱乐圈和粉丝圈层；讨论深度较浅，多为娱乐性互动和角色吐槽，不具备引发深度社会思考的潜力。综合潜力分较低，属于小范围关注的娱乐话题，难以成为社会级爆点。"
+    },
+    "normalized_heat": 13.45,
+    "normalized_discussion": 0.0,
+    "total_score": 12.73,
+    "is_breakout": false
+  },
+  {
+    "platform": "weibo",
+    "title": "何炅 夜深了歌手们都有一些变化",
+    "heat_score": 147904,
+    "link": "https://s.weibo.com/weibo?q=%E4%BD%95%E7%82%85%20%E5%A4%9C%E6%B7%B1%E4%BA%86%E6%AD%8C%E6%89%8B%E4%BB%AC%E9%83%BD%E6%9C%89%E4%B8%80%E4%BA%9B%E5%8F%98%E5%8C%96&t=31&band_rank=18&Refer=top",
+    "discussion_volume": null,
+    "category": "新",
+    "content": null,
+    "llm_analysis": {
+      "topic_nature": "娱乐",
+      "social_impact": 4,
+      "discussion_depth": 3,
+      "potential_score": 3,
+      "reason": "该话题性质为典型的娱乐话题，围绕综艺节目《声生不息》中何炅、黄龄、李佳薇的互动片段展开，内容轻松幽默，以搞笑、玩梗为主。社会影响力有限（4分），主要影响范围是综艺观众、明星粉丝及微博娱乐话题用户，不具备广泛的社会议题属性。讨论深度较浅（3分），话题焦点集中在明星的即兴反应、综艺效果和网络流行语的传播，缺乏引发深度社会思考或价值观讨论的潜力。综合潜力分较低（3分），属于典型的短期娱乐热点，热度主要依赖节目播出周期和粉丝互动，难以发展为具有持续影响力的社会级爆点。"
+    },
+    "normalized_heat": 12.92,
+    "normalized_discussion": 0.0,
+    "total_score": 12.46,
+    "is_breakout": false
+  },
+  {
+    "platform": "weibo",
+    "title": "0118周杰伦送双重福利",
+    "heat_score": 0,
+    "link": "https://s.weibo.comjavascript:void(0);",
+    "discussion_volume": null,
+    "category": "火热",
+    "content": null,
+    "llm_analysis": {
+      "topic_nature": "娱乐",
+      "social_impact": 3,
+      "discussion_depth": 2,
+      "potential_score": 3,
+      "reason": "该话题标题为'0118周杰伦送双重福利'，明确指向明星周杰伦的粉丝福利活动。话题性质属于典型的娱乐新闻，主要涉及明星与粉丝互动。由于缺乏具体内容，无法评估其是否包含社会议题或更深层意义。此类话题通常局限于粉丝群体内部讨论，社会影响力较小，讨论深度有限，主要围绕福利内容、粉丝反应等浅层互动。综合来看，其成为'社会级爆点'的潜力很低，属于小范围关注的娱乐性话题。"
+    },
+    "normalized_heat": 0.0,
+    "normalized_discussion": 0.0,
+    "total_score": 6.0,
+    "is_breakout": false
+  }
+]

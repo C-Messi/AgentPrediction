@@ -1,0 +1,47 @@
+## OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+## Env files
+.env
+.env.*
+
+## Go
+.gocache/
+/go/.gocache/
+/go/bin/
+/go/predict-listener
+/go/predict-go-listener
+/go/*.exe
+/go/*.test
+/go/*.out
+/go/go.sum
+
+## Node
+/listener/node_modules/
+/Prediction/node_modules/
+/Prediction/dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+## Foundry
+/foundry/cache/
+/foundry/out/
+/foundry/broadcast/
+
+## Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+## HotPAgent outputs/logs
+/HotPAgent/logs/
+/HotPAgent/output/
+/HotPAgent/predict/
+
+## Local data
+/output/

@@ -1,0 +1,281 @@
+// PredictionMarket ABI
+export const PREDICTION_MARKET_ABI = [
+  // Read methods
+  {
+    inputs: [],
+    name: 'predToken',
+    outputs: [{ internalType: 'address', name: '', type: 'address' }],
+    stateMutability: 'view',
+    type: 'function',
+  },
+  {
+    inputs: [],
+    name: 'marketCount',
+    outputs: [{ internalType: 'uint256', name: '', type: 'uint256' }],
+    stateMutability: 'view',
+    type: 'function',
+  },
+  {
+    inputs: [{ internalType: 'uint256', name: 'marketId', type: 'uint256' }],
+    name: 'getMarketBasics',
+    outputs: [
+      { internalType: 'address', name: 'creator', type: 'address' },
+      { internalType: 'string', name: 'question', type: 'string' },
+      { internalType: 'uint256', name: 'endTime', type: 'uint256' },
+      { internalType: 'uint8', name: 'status', type: 'uint8' },
+      { internalType: 'bool', name: 'outcome', type: 'bool' },
+    ],
+    stateMutability: 'view',
+    type: 'function',
+  },
+  {
+    inputs: [{ internalType: 'uint256', name: 'marketId', type: 'uint256' }],
+    name: 'getMarketPools',
+    outputs: [
+      { internalType: 'uint256', name: 'yesPredReserve', type: 'uint256' },
+      { internalType: 'uint256', name: 'yesShareReserve', type: 'uint256' },
+      { internalType: 'uint256', name: 'noPredReserve', type: 'uint256' },
+      { internalType: 'uint256', name: 'noShareReserve', type: 'uint256' },
+      { internalType: 'uint256', name: 'totalYesShares', type: 'uint256' },
+      { internalType: 'uint256', name: 'totalNoShares', type: 'uint256' },
+      { internalType: 'uint256', name: 'winningPredPool', type: 'uint256' },
+      { internalType: 'uint256', name: 'totalWinningShares', type: 'uint256' },
+    ],
+    stateMutability: 'view',
+    type: 'function',
+  },
+  {
+    inputs: [
+      { internalType: 'uint256', name: 'marketId', type: 'uint256' },
+      { internalType: 'address', name: 'user', type: 'address' },
+    ],
+    name: 'positions',
+    outputs: [
+      { internalType: 'uint128', name: 'yesShares', type: 'uint128' },
+      { internalType: 'uint128', name: 'noShares', type: 'uint128' },
+      { internalType: 'bool', name: 'claimed', type: 'bool' },
+      { internalType: 'bool', name: 'refunded', type: 'bool' },
+    ],
+    stateMutability: 'view',
+    type: 'function',
+  },
+  {
+    inputs: [{ internalType: 'address', name: '', type: 'address' }],
+    name: 'agents',
+    outputs: [{ internalType: 'bool', name: '', type: 'bool' }],
+    stateMutability: 'view',
+    type: 'function',
+  },
+  // Write methods (Agent)
+  {
+    inputs: [
+      { internalType: 'address', name: 'agent', type: 'address' },
+      { internalType: 'bool', name: 'enabled', type: 'bool' },
+    ],
+    name: 'setAgent',
+    outputs: [],
+    stateMutability: 'nonpayable',
+    type: 'function',
+  },
+  {
+    inputs: [
+      { internalType: 'string', name: 'question', type: 'string' },
+      { internalType: 'uint256', name: 'endTime', type: 'uint256' },
+      { internalType: 'uint256', name: 'initialYesPred', type: 'uint256' },
+      { internalType: 'uint256', name: 'initialNoPred', type: 'uint256' },
+    ],
+    name: 'createMarket',
+    outputs: [{ internalType: 'uint256', name: '', type: 'uint256' }],
+    stateMutability: 'nonpayable',
+    type: 'function',
+  },
+  {
+    inputs: [
+      { internalType: 'uint256', name: 'marketId', type: 'uint256' },
+      { internalType: 'bool', name: 'outcome', type: 'bool' },
+    ],
+    name: 'resolveMarket',
+    outputs: [],
+    stateMutability: 'nonpayable',
+    type: 'function',
+  },
+  {
+    inputs: [{ internalType: 'uint256', name: 'marketId', type: 'uint256' }],
+    name: 'cancelMarket',
+    outputs: [],
+    stateMutability: 'nonpayable',
+    type: 'function',
+  },
+  // Write methods (User)
+  {
+    inputs: [
+      { internalType: 'uint256', name: 'marketId', type: 'uint256' },
+      { internalType: 'uint256', name: 'predIn', type: 'uint256' },
+      { internalType: 'uint256', name: 'minSharesOut', type: 'uint256' },
+    ],
+    name: 'buyYes',
+    outputs: [{ internalType: 'uint256', name: '', type: 'uint256' }],
+    stateMutability: 'nonpayable',
+    type: 'function',
+  },
+  {
+    inputs: [
+      { internalType: 'uint256', name: 'marketId', type: 'uint256' },
+      { internalType: 'uint256', name: 'predIn', type: 'uint256' },
+      { internalType: 'uint256', name: 'minSharesOut', type: 'uint256' },
+    ],
+    name: 'buyNo',
+    outputs: [{ internalType: 'uint256', name: '', type: 'uint256' }],
+    stateMutability: 'nonpayable',
+    type: 'function',
+  },
+  {
+    inputs: [
+      { internalType: 'uint256', name: 'marketId', type: 'uint256' },
+      { internalType: 'uint256', name: 'sharesIn', type: 'uint256' },
+      { internalType: 'uint256', name: 'minPredOut', type: 'uint256' },
+    ],
+    name: 'sellYes',
+    outputs: [{ internalType: 'uint256', name: '', type: 'uint256' }],
+    stateMutability: 'nonpayable',
+    type: 'function',
+  },
+  {
+    inputs: [
+      { internalType: 'uint256', name: 'marketId', type: 'uint256' },
+      { internalType: 'uint256', name: 'sharesIn', type: 'uint256' },
+      { internalType: 'uint256', name: 'minPredOut', type: 'uint256' },
+    ],
+    name: 'sellNo',
+    outputs: [{ internalType: 'uint256', name: '', type: 'uint256' }],
+    stateMutability: 'nonpayable',
+    type: 'function',
+  },
+  {
+    inputs: [{ internalType: 'uint256', name: 'marketId', type: 'uint256' }],
+    name: 'claimWinnings',
+    outputs: [],
+    stateMutability: 'nonpayable',
+    type: 'function',
+  },
+  {
+    inputs: [{ internalType: 'uint256', name: 'marketId', type: 'uint256' }],
+    name: 'refund',
+    outputs: [],
+    stateMutability: 'nonpayable',
+    type: 'function',
+  },
+  {
+    inputs: [
+      { internalType: 'uint256', name: 'marketId', type: 'uint256' },
+      { internalType: 'string', name: 'content', type: 'string' },
+    ],
+    name: 'sendDanmaku',
+    outputs: [],
+    stateMutability: 'nonpayable',
+    type: 'function',
+  },
+  {
+    inputs: [
+      { internalType: 'uint256', name: 'marketId', type: 'uint256' },
+      { internalType: 'string', name: 'content', type: 'string' },
+    ],
+    name: 'sendComment',
+    outputs: [],
+    stateMutability: 'nonpayable',
+    type: 'function',
+  },
+  // Events
+  {
+    anonymous: false,
+    inputs: [
+      { indexed: true, internalType: 'uint256', name: 'marketId', type: 'uint256' },
+      { indexed: true, internalType: 'address', name: 'creator', type: 'address' },
+      { indexed: false, internalType: 'string', name: 'question', type: 'string' },
+      { indexed: false, internalType: 'uint256', name: 'endTime', type: 'uint256' },
+      { indexed: false, internalType: 'uint256', name: 'initialYesPred', type: 'uint256' },
+      { indexed: false, internalType: 'uint256', name: 'initialNoPred', type: 'uint256' },
+    ],
+    name: 'MarketCreated',
+    type: 'event',
+  },
+  {
+    anonymous: false,
+    inputs: [
+      { indexed: true, internalType: 'uint256', name: 'marketId', type: 'uint256' },
+      { indexed: true, internalType: 'address', name: 'user', type: 'address' },
+      { indexed: false, internalType: 'bool', name: 'isYes', type: 'bool' },
+      { indexed: false, internalType: 'uint256', name: 'predIn', type: 'uint256' },
+      { indexed: false, internalType: 'uint256', name: 'sharesOut', type: 'uint256' },
+    ],
+    name: 'SharesBought',
+    type: 'event',
+  },
+  {
+    anonymous: false,
+    inputs: [
+      { indexed: true, internalType: 'uint256', name: 'marketId', type: 'uint256' },
+      { indexed: true, internalType: 'address', name: 'user', type: 'address' },
+      { indexed: false, internalType: 'bool', name: 'isYes', type: 'bool' },
+      { indexed: false, internalType: 'uint256', name: 'sharesIn', type: 'uint256' },
+      { indexed: false, internalType: 'uint256', name: 'predOut', type: 'uint256' },
+    ],
+    name: 'SharesSold',
+    type: 'event',
+  },
+  {
+    anonymous: false,
+    inputs: [
+      { indexed: true, internalType: 'uint256', name: 'marketId', type: 'uint256' },
+      { indexed: false, internalType: 'bool', name: 'outcome', type: 'bool' },
+    ],
+    name: 'MarketResolved',
+    type: 'event',
+  },
+  {
+    anonymous: false,
+    inputs: [{ indexed: true, internalType: 'uint256', name: 'marketId', type: 'uint256' }],
+    name: 'MarketCancelled',
+    type: 'event',
+  },
+  {
+    anonymous: false,
+    inputs: [
+      { indexed: true, internalType: 'uint256', name: 'marketId', type: 'uint256' },
+      { indexed: true, internalType: 'address', name: 'user', type: 'address' },
+      { indexed: false, internalType: 'uint256', name: 'amount', type: 'uint256' },
+    ],
+    name: 'WinningsClaimed',
+    type: 'event',
+  },
+  {
+    anonymous: false,
+    inputs: [
+      { indexed: true, internalType: 'uint256', name: 'marketId', type: 'uint256' },
+      { indexed: true, internalType: 'address', name: 'user', type: 'address' },
+      { indexed: false, internalType: 'uint256', name: 'amount', type: 'uint256' },
+    ],
+    name: 'Refunded',
+    type: 'event',
+  },
+  {
+    anonymous: false,
+    inputs: [
+      { indexed: true, internalType: 'uint256', name: 'marketId', type: 'uint256' },
+      { indexed: true, internalType: 'address', name: 'user', type: 'address' },
+      { indexed: false, internalType: 'string', name: 'content', type: 'string' },
+    ],
+    name: 'Comment',
+    type: 'event',
+  },
+  {
+    anonymous: false,
+    inputs: [
+      { indexed: true, internalType: 'uint256', name: 'marketId', type: 'uint256' },
+      { indexed: true, internalType: 'address', name: 'user', type: 'address' },
+      { indexed: false, internalType: 'string', name: 'content', type: 'string' },
+    ],
+    name: 'Danmaku',
+    type: 'event',
+  },
+] as const
